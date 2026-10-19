@@ -1,0 +1,12 @@
+{
+  "appId": "com.freshly.expirytracker",
+  "appName": "Freshly",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
